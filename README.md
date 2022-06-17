@@ -12,14 +12,14 @@
 ## Outline
 > 1. 簡介
 > 2. 實作
-> 2-1. 事前準備
-> 2-2. 部署合約
-> 2-3. 準備 metadata 並上傳 Pinata(IPFS)
-> 2-4. 準備 metadata.json 並上傳 Pinata(IPFS)
-> 2-5. metadata.json 與合約連接
-> 2-6. 檢查結果
-> 2-7. 上傳合約程式碼
-> 2-8. 與合約互動
+> - 2-1. 事前準備
+> - 2-2. 部署合約
+> - 2-3. 準備 metadata 並上傳 Pinata(IPFS)
+> - 2-4. 準備 metadata.json 並上傳 Pinata(IPFS)
+> - 2-5. metadata.json 與合約連接
+> - 2-6. 檢查結果
+> - 2-7. 上傳合約程式碼
+> - 2-8. 與合約互動
 > 3. 合約地址
 
 
